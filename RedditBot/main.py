@@ -1,10 +1,10 @@
+import logging
+from master import Master
 from worker import Worker
 
-worker1 = Worker(5,10,'all')
+logging.basicConfig(filename='myapp.log', level=logging.INFO)
+logging.info("Instantiating worker")
 
-worker1.start
-
-
-
+Master.createWorker(10, 5,'all', 'hot')
 
 
