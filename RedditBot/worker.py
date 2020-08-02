@@ -10,8 +10,8 @@ class Worker:
             self.comment_limit = comment_limit
             self.subreddit = subreddit
             self.search_by_condition = search_by_condition
-
             logging.info('Worker created successfully')
+            self.defaultTaskStart()
         except:
             logging.error('Worker failed to be created.', traceback.print_exc(file=sys.stdout))
 
