@@ -221,3 +221,145 @@ INFO:root:Instantiating worker
 INFO:root:Instantiating worker
 INFO:root:Instantiating worker
 INFO:root:Database(MongoClient(host=['testcluster-shard-00-02.0uyyo.mongodb.net:27017', 'testcluster-shard-00-00.0uyyo.mongodb.net:27017', 'testcluster-shard-00-01.0uyyo.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-42ivb9-shard-0', ssl=True), 'test')
+INFO:root:Instantiating worker
+INFO:root:Instantiating worker
+INFO:root:Instantiating worker
+INFO:root:Instantiating worker
+INFO:root:Instantiating worker
+INFO:root:<dataHandler.DataHandler object at 0x03C13DC0>
+INFO:root:Instantiating worker
+INFO:root:<dataHandler.DataHandler object at 0x039C3DD8>
+INFO:root:Instantiating worker
+INFO:root:Instantiating worker
+INFO:root:<dataHandler.DataHandler object at 0x03EB3DC0>
+INFO:root:Instantiating worker
+INFO:root:<dataHandler.DataHandler object at 0x03D0BDA8>
+INFO:root:Instantiating worker
+INFO:root:<dataHandler.DataHandler object at 0x03CC3F28>
+INFO:root:Worker starting scan.
+INFO:root:Original Poster: boomshiki 
+INFO:root:trashy
+INFO:root:PublicFreakout
+INFO:root:PublicFreakout
+INFO:root:submechanophobia
+INFO:root:memes
+INFO:root:Original Poster: memezzer 
+INFO:root:TIHI
+INFO:root:natureismetal
+INFO:root:maybemaybemaybe
+INFO:root:HolUp
+INFO:root:HolUp
+INFO:root:Original Poster: Applied_Mathematics 
+INFO:root:me_irl
+INFO:root:unpopularopinion
+INFO:root:Coronavirus
+INFO:root:Coronavirus
+INFO:root:FragileWhiteRedditor
+INFO:root:Original Poster: gargunwich 
+INFO:root:interestingasfuck
+INFO:root:interestingasfuck
+INFO:root:interestingasfuck
+INFO:root:interestingasfuck
+INFO:root:interestingasfuck
+INFO:root:Original Poster: tahzeerr 
+INFO:root:dankmemes
+INFO:root:dankmemes
+INFO:root:dankmemes
+INFO:root:dankmemes
+INFO:root:dankmemes
+ERROR:root:Master has failed to created worker.
+INFO:root:Destructor called, worker deleted.
+INFO:root:Instantiating worker
+INFO:root:<dataHandler.DataHandler object at 0x046D4F28>
+INFO:root:Worker starting scan.
+INFO:root:Original Poster: boomshiki 
+INFO:root:Original Poster: memezzer 
+INFO:root:Original Poster: Applied_Mathematics 
+INFO:root:Original Poster: gargunwich 
+INFO:root:Original Poster: tahzeerr 
+ERROR:root:Master has failed to created worker.
+INFO:root:Destructor called, worker deleted.
+INFO:root:Instantiating worker
+INFO:root:Worker created successfully 2020-08-02 16:21:30.780238
+INFO:root:<dataHandler.DataHandler object at 0x03DD4F10>
+INFO:root:Worker starting scan.
+INFO:root:Original Poster: memezzer 
+INFO:root:memezzer already exists.
+INFO:root:Original Poster: Applied_Mathematics 
+INFO:root:Applied_Mathematics already exists.
+INFO:root:Original Poster: gargunwich 
+INFO:root:gargunwich already exists.
+INFO:root:Original Poster: TheGoldenBoi_ 
+INFO:root:NatureIsFuckingLit
+INFO:root:NatureIsFuckingLit
+INFO:root:memes
+INFO:root:dankmemes
+INFO:root:interestingasfuck
+INFO:root:Original Poster: AmiBorg 
+INFO:root:BlackPeopleTwitter
+INFO:root:RedDeadOnline
+INFO:root:RedDeadOnline
+INFO:root:RedDeadOnline
+INFO:root:RedDeadOnline
+ERROR:root:Master has failed to created worker.
+INFO:root:Destructor called, worker deleted.
+INFO:root:Instantiating worker
+INFO:root:<dataHandler.DataHandler object at 0x0307A190>
+INFO:root:Instantiating worker
+INFO:root:<dataHandler.DataHandler object at 0x031AA190>
+INFO:root:Instantiating worker
+INFO:root:<dataHandler.DataHandler object at 0x037CA190>
+INFO:root:Instantiating worker
+INFO:root:<dataHandler.DataHandler object at 0x0379A190>
+INFO:root:Instantiating worker
+INFO:root:<dataHandler.DataHandler object at 0x03AEA190>
+INFO:root:Instantiating worker
+INFO:root:<dataHandler.DataHandler object at 0x036DA190>
+INFO:root:Instantiating worker
+INFO:root:<dataHandler.DataHandler object at 0x0348A190>
+INFO:root:Instantiating worker
+INFO:root:<dataHandler.DataHandler object at 0x03A9A190>
+INFO:root:Instantiating worker
+INFO:root:<dataHandler.DataHandler object at 0x03B8A268>
+INFO:root:Instantiating worker
+INFO:root:<dataHandler.DataHandler object at 0x02FFA268>
+INFO:root:{'_id': ObjectId('5f272c07eff424ad3925bea8'), 'user_name': 'boomshiki', 'creation_date': datetime.datetime(2020, 8, 2, 16, 11, 35, 934000), 'last_update_date': datetime.datetime(2020, 8, 2, 16, 11, 35, 934000)}
+INFO:root:Instantiating worker
+INFO:root:<dataHandler.DataHandler object at 0x0392A268>
+INFO:root:<pymongo.cursor.Cursor object at 0x04689A78>
+INFO:root:Instantiating worker
+INFO:root:<dataHandler.DataHandler object at 0x0365A268>
+INFO:root:Instantiating worker
+INFO:root:<dataHandler.DataHandler object at 0x0365A268>
+INFO:root:Instantiating worker
+INFO:root:<dataHandler.DataHandler object at 0x02E9A268>
+INFO:root:None
+INFO:root:Instantiating worker
+INFO:root:<dataHandler.DataHandler object at 0x030AA268>
+INFO:root:null
+INFO:root:Instantiating worker
+INFO:root:<dataHandler.DataHandler object at 0x00D8A268>
+INFO:root:Instantiating worker
+INFO:root:<dataHandler.DataHandler object at 0x02D4A268>
+INFO:root:{'_id': ObjectId('5f272c07eff424ad3925bea8'), 'user_name': 'boomshiki', 'creation_date': datetime.datetime(2020, 8, 2, 16, 11, 35, 934000), 'last_update_date': datetime.datetime(2020, 8, 2, 16, 11, 35, 934000)}
+INFO:root:Instantiating worker
+INFO:root:<dataHandler.DataHandler object at 0x03A8A268>
+INFO:root:{'_id': ObjectId('5f272c07eff424ad3925bea8'), 'user_name': 'boomshiki', 'creation_date': datetime.datetime(2020, 8, 2, 16, 11, 35, 934000), 'last_update_date': datetime.datetime(2020, 8, 2, 16, 11, 35, 934000)}
+INFO:root:Instantiating worker
+INFO:root:<dataHandler.DataHandler object at 0x031AA268>
+INFO:root:{'_id': ObjectId('5f272c07eff424ad3925bea8')}
+INFO:root:Instantiating worker
+INFO:root:<dataHandler.DataHandler object at 0x03ACA268>
+INFO:root:{'_id': ObjectId('5f272c07eff424ad3925bea8')}
+INFO:root:Instantiating worker
+INFO:root:<dataHandler.DataHandler object at 0x0320A268>
+INFO:root:{'_id': ObjectId('5f272c07eff424ad3925bea8')}
+INFO:root:Instantiating worker
+INFO:root:<dataHandler.DataHandler object at 0x02E9A268>
+INFO:root:{'_id': ObjectId('5f272c07eff424ad3925bea8')}
+INFO:root:Instantiating worker
+INFO:root:<dataHandler.DataHandler object at 0x016CA268>
+INFO:root:{'_id': ObjectId('5f272c07eff424ad3925bea8')}
+INFO:root:Instantiating worker
+INFO:root:<dataHandler.DataHandler object at 0x02EEA268>
+INFO:root:{'_id': ObjectId('5f272c07eff424ad3925bea8')}
